@@ -19,3 +19,7 @@ ax.bar(categories, count)
 ax.set_title('# of Purchases by Category')
 
 plt.show()
+
+a = 10
+if a == 10:
+    print("I did it")
